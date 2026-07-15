@@ -1,5 +1,4 @@
-# Task-1-AkshitRawat
-# Static Website Hosting on AWS S3
+# AWS S3 Static Website Hosting
 # ☁️ Static Website Hosting on AWS S3
 
 ## 🚀 Project Overview
